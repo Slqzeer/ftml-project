@@ -1,0 +1,26 @@
+# FTML project
+black
+graphviz
+ipdb
+isort
+jupyterlab
+kneed
+matplotlib
+numpy
+opencv-python
+optuna
+optuna-dashboard
+pandas
+scikit-learn
+scipy
+seaborn
+snakeviz
+termcolor
+torch
+wikipedia
+yellowbrick
+
+# Notebook runtime
+jupyter
+
+
